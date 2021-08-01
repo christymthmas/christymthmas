@@ -13,8 +13,8 @@
  ### 🏆 My Certifications and Achievements: 
 <ul>
   <li>Coursera: Crash Course On Python By Google</li>
-  <li>Achieved Milestone 01 of Google Cloud Ready Facilitator Program</li>
-  <li>Secured 3rd rank on State Level Web Designing competition organized by Kerala Government which was held in 2016.</li>
+  <li>Google Cloud Ready Facilitator Program: Milestone 1 Completed</li>
+  <li>Kerala State Web Designing Competition: 3rd Rank (2016)</li>
 </ul>
 📫 Reach me at <a href="mailto:christymthmas@gmail.com">christymthmas@gmail.com</a><br>
 💼 Find me on <a href="https://twitter.com/BetterBeChristy">Linkedin</a>
