@@ -19,13 +19,13 @@
 💼 Find me on <a href="https://twitter.com/BetterBeChristy">Linkedin</a>
 
 ---
-### 🎧 Spotify Playing 
+### 🎧 Spotify Playing:
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![Spotify](https://novatorem-iota-smoky.vercel.app/api/spotify)](https://open.spotify.com/user/31gkwrquwl4nho6evrkwnozs5nf4?si=6fa233a4dd9b404a)
 
 ---
-### 🛠 Languages and Tools 
+### 🛠 Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
