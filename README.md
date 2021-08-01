@@ -1,4 +1,4 @@
-# Hi there, I'm Christy <img width="30px" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" />
+# Hi there, I'm Christy! <img width="30px" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.tenor.com/images/ef408a140e96ec46a8ed4fff2b2356b4/tenor.gif" />
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.tenor.com/images/a55dcfe13e98fd765eeec9f3f72d530a/tenor.gif" />
@@ -22,7 +22,7 @@
 
 
 ---
-### 🎧 Currently, I'm listening:
+### 🎧 Currently, I'm listening to:
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
