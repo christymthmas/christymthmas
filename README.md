@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.tenor.com/images/a55dcfe13e98fd765eeec9f3f72d530a/tenor.gif" />
 
-## 💁🏻‍♂️ About me:   
+### 💁🏻‍♂️ About me:   
 
 - 📚 I’m currently pursuing Masters in Geospatial Analytics!🌎
 - 🏄 I'm interested in Programming👨‍💻, Spatial Technologies🛰️, Web Development!🕸️ 
@@ -19,7 +19,7 @@
 
 
 ---
-### 🎧 Currently I'm listening:
+### 🎧 Currently, I'm listening:
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
