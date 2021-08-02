@@ -9,7 +9,7 @@
 
 - 📚 I’m currently pursuing Masters in Computer Science💻 with specialization in Geospatial Analytics!🌎
 - 🏄 I'm interested in Programming👨‍💻, Spatial Technologies🛰️, Web Development!🕸️ 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas!💻
+- ❤️ I like to automate realworld activities using Python!💻
 - ⚡ Fun fact: I love to play keyboard🎹 and edit videos✂️.
 
 ---
