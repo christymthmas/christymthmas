@@ -12,13 +12,13 @@
 - ❤️ I like to automate real-world activities using Python!💻
 - ⚡ Fun fact: I love to play keyboard🎹 and edit videos✂️.
 
----
+<!-- ---
  ### 🏆 My Certifications and Achievements: 
 <ul>
   <li>Coursera: Crash Course On Python By Google🐍</li>
   <li>Google Cloud Ready Facilitator Program: Milestone 01 Completed!☁</li>
   <li>Kerala State Web Designing Competition: 3rd Rank (2016)🕸️</li>
-</ul>
+</ul> -->
 
 
 ---
