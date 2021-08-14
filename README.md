@@ -50,7 +50,7 @@
 ### 📞 Contact Me:
 
 📫 Reach me at <a href="mailto:christymthmas@gmail.com">christymthmas@gmail.com</a><br>
-💼 Find me on <a href="https://twitter.com/BetterBeChristy">Linkedin</a>
+💼 Find me on <a href="https://www.linkedin.com/in/christy-m-thomas/">Linkedin</a>
   
 
 
