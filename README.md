@@ -5,7 +5,7 @@
  -->
 
 
-### 💁🏻‍♂️ About me:   
+### 💁🏻‍♂️ About me   
 
 - 📚 I’m currently pursuing Masters in Computer Science💻 with specialization in Geospatial Analytics!🌎
 - 🏄 I'm interested in Programming👨‍💻, Spatial Technologies🛰️ and Web Development!🕸️ 
