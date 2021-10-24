@@ -22,11 +22,11 @@
 
 
 ---
-### 🎧 Currently, I'm listening to:
+<!-- ### 🎧 Currently, I'm listening to: -->
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
-![Spotify](https://novatorem-iota-smoky.vercel.app/api/spotify)
+<!-- ![Spotify](https://novatorem-iota-smoky.vercel.app/api/spotify) -->
 
 ---
 ### 🛠 Languages and Tools I use:
