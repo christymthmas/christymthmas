@@ -7,7 +7,7 @@
 
 ### 💁🏻‍♂️ About me:   
 
-- 👨🏽‍💻 GIS Engineer at nurture.farm!🌾
+- 👨🏽‍💻 I'm working in a Geospatial Domain!🌾
 - 📚 I’ve a masters in Computer Science💻 with specialization in Geospatial Analytics!🌎
 - 🏄 I'm interested in Programming👨‍💻, Spatial Technologies🛰️ and Web Development!🕸️ 
 - ❤️ I like to automate real-world repeated boring activities using Python!💻
